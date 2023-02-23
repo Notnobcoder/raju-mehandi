@@ -1,0 +1,18 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30">
+	<title>sm-logo-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0h30v30h-30z"/>
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 28px;fill: #32ba32;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<text id="Text layer 10" style="transform: matrix(1,0,0,1,5,2)" >
+			<tspan x="0" y="21.3" class="t0">R
+</tspan>
+		</text>
+	</g>
+</svg>
